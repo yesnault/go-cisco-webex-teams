@@ -4,6 +4,7 @@
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **Id** | **string** | Message ID. | [optional] [default to null]
+**ParentId** | **string** | Parent ID. | [optional] [default to null]
 **RoomId** | **string** | Room ID. | [optional] [default to null]
 **RoomType** | **string** | Room type (group or direct). | [optional] [default to null]
 **ToPersonId** | **string** | Person ID (for type&#x3D;direct). | [optional] [default to null]

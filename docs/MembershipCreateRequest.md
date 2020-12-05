@@ -4,6 +4,7 @@
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **RoomId** | **string** | Room ID. | [default to null]
+**ParentId** | **string** | Parent ID. | [optional] [default to null]
 **PersonId** | **string** | Person ID. | [optional] [default to null]
 **PersonEmail** | **string** | Person email. | [optional] [default to null]
 **IsModerator** | **bool** | Membership is a moderator. | [optional] [default to null]
